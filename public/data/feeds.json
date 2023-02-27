@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Hamburger",
+    "price": "200",
+    "image": "burger.jpeg"
+  },
+  {
+    "name": "Fries",
+    "price": "100",
+    "image": "fries.jpeg"
+  },
+  {
+    "name": "Coke",
+    "price": "50",
+    "image": "coke.jpeg"
+  },
+  {
+    "name": "Pepsi",
+    "price": "50",
+    "image": "pepsi.jpeg"
+  },
+
+  {
+    "name": "Pizza",
+    "price": "250",
+    "image": "pizza.jpeg"
+  },
+  {
+    "name": "Pasta",
+    "price": "50",
+    "image": "pasta.jpeg"
+  },
+  {
+    "name": "Lassi",
+    "price": "50",
+    "image": "lassi.jpeg"
+  },
+  {
+    "name": "Noodles",
+    "price": "50",
+    "image": "noodles.jpeg"
+  },
+  {
+    "name": "Vada Pav",
+    "price": "200",
+    "image": "vadapav.jpg"
+  },
+
+  {
+    "name": "Manchurian",
+    "price": "100",
+    "image": "manchurian.jpeg"
+  }
+]
